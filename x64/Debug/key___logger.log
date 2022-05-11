@@ -1,0 +1,6 @@
+﻿  key___logger.cpp
+D:\University\Data Structue Abdul Rehman\Project\key___logger\key___logger\key___logger.cpp(182,11): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+D:\University\Data Structue Abdul Rehman\Project\key___logger\key___logger\key___logger.cpp(257,11): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+D:\University\Data Structue Abdul Rehman\Project\key___logger\key___logger\key___logger.cpp(260,11): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\University\Data Structue Abdul Rehman\Project\key___logger\key___logger\key___logger.cpp(307,11): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  key___logger.vcxproj -> D:\University\Data Structue Abdul Rehman\Project\key___logger\x64\Debug\key___logger.exe
